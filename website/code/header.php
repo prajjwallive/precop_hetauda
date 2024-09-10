@@ -11,7 +11,7 @@
             <a class="mr-5 hover:text-gray-900" href="resources.php">Resources</a>
             <a class="mr-5 hover:text-gray-900" href="location.php">Location</a>
             <a class="mr-5 hover:text-gray-900" href="speaker.php">Speakers</a>
-            <a class="mr-5 hover:text-gray-900" href="partners.php">Sponsors</a>
+            <!-- <a class="mr-5 hover:text-gray-900" href="partners.php">Sponsors</a>   -->
 
         </nav>
         <a class="mr-5 hover:text-gray-900" href="https://forms.gle/p6zqXbYa4N53nVtn7">
